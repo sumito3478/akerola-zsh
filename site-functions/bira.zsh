@@ -1,0 +1,1 @@
+../3rdparty/oh-my-zsh/themes/bira.zsh-theme

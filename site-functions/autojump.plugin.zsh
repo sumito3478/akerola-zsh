@@ -1,0 +1,1 @@
+../3rdparty/oh-my-zsh/plugins/autojump/autojump.plugin.zsh

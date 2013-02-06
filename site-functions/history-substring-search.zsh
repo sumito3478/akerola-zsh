@@ -1,0 +1,1 @@
+../3rdparty/oh-my-zsh/plugins/history-substring-search/history-substring-search.zsh
